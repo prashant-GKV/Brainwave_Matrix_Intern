@@ -1,0 +1,35 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 20px solid blue;
+    border-top: 20px solid black;
+    border-radius: 50%;
+    animation: animatate .3s ease-in 0s infinite normal ;
+}
+/* @media (max-width:300px)  {
+    div{
+        background-color: greenyellow;
+    }
+}
+@media (min-width:300px) and (max-width:400px){
+    div{
+        background-color: pink;
+}
+}
+@media (min-width:400px) and (max-width:600px)  {
+    div{
+        background-color: red;
+    }
+}
+@media (min-width:600px)  {
+    div{
+        background-color: blue;
+    }
+}
+ */
+@keyframes animatate{
+    form{transform:rotate(0deg)} 
+    to {transform:rotate(360deg)}
+}
+

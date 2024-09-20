@@ -1,0 +1,46 @@
+/* #h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: underline;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+} */
+/* div{
+
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+*{
+    padding: opx;
+    margin: 0px;
+    color: white;
+    text-decoration: none;
+}
+
+#navbar{
+    background-color: #0f1111;
+    height: 60px;
+    border: 20px;
+    border-color: white;
+}
+button{
+    background-color: yellow;
+}
+#logo{
+    color: yellow;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+}
